@@ -19,7 +19,7 @@ facts(padre,
       ('Raul', 'Jose'), 
       ('Esteban', 'Andres'), 
       ('Esteban', 'Carlos'),
-      ('Jose', 'Gladys')
+      ('Jose', 'Gladys'),
       ('Jose', 'Marcelo')
       )
 facts(hermano,
