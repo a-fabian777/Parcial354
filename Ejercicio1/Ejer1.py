@@ -57,5 +57,12 @@ for k in [25, 50]:
 
 #dfcovid['new_cases'].mean()
 
+#con pandas
+print('cuartil 1')
+print(dfcovid.quantile(0.25))
+print('percentil 50')
+print(dfcovid.quantile(0.5))
+
+
 
 #   c. Grafique los datos y explique su comportamiento (PYTHON)
